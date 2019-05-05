@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_dataservay"
+            android:icon="@drawable/dataservay"
+            android:title="Data Servay" />
+        <item
+            android:id="@+id/rent_materials"
+            android:icon="@drawable/rent"
+            android:title="Rent Materials" />
+        <item
+            android:id="@+id/show_rent"
+            android:icon="@drawable/items"
+            android:title="Show Rent Materials" />
+
+        <item
+            android:id="@+id/weather"
+            android:icon="@drawable/wea"
+            android:title="Weather" />
+
+        <item
+            android:id="@+id/nav_plant_amt"
+            android:icon="@drawable/veg_amt"
+            android:title="Daily Fairs" />
+
+        <item
+            android:id="@+id/nav_storage_place"
+            android:icon="@drawable/baseline_storage_black_18dp"
+            android:title="Storage Places" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>

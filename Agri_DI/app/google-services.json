@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30418170454",
+    "firebase_url": "https://agridi.firebaseio.com",
+    "project_id": "agridi",
+    "storage_bucket": "agridi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30418170454:android:d2cf0e5ba671582a",
+        "android_client_info": {
+          "package_name": "com.companies.patil.agri_di"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30418170454-fkg5gajion8t77sjeknpiobb9lmgdu3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companies.patil.agri_di",
+            "certificate_hash": "e9bab7d3c334ee0bd649e5512dee1e98a2f64048"
+          }
+        },
+        {
+          "client_id": "30418170454-tr6pjeo1eg3hvat468q4ihfneg1a0lot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Pzjij7QjMycEO7F8o9dNXNw3t-VRXP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30418170454-tr6pjeo1eg3hvat468q4ihfneg1a0lot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
